@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Metadata xmlns="http://www.amazon.com/UnboxMetadata/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.amazon.com/UnboxMetadata/v1 https://s3.amazonaws.com/aiv-external/AIV_Metadata_INTL-1.5.xsd">
+    <TV>
+        <Series>
+            <AdultProduct>true</AdultProduct>
+            <TitleInfo>
+                <StartYear>2010</StartYear>
+                <EndYear>2018</EndYear>
+                <Title locale="IN-US">Game Of Thrones</Title>
+                <Studio>HBO</Studio>
+                <Actor>
+                    <ActorName>Kit Harrington</ActorName>
+                    <Character>Jon Snow</Character>
+                </Actor>
+                <Actor>
+                    <ActorName>Natalie Dormer</ActorName>
+                    <Character>margaery</Character>
+                </Actor>
+                <Writer>George R.R Martin</Writer>
+                <Director>David Benioff</Director>
+                <Synopses>
+                    <Short>vulgarity,brutality</Short>
+                    <Long>vulgarity,brutality</Long>
+                </Synopses>
+            </TitleInfo>
+            <PartnerName>HBO</PartnerName>
+            <UniqueID>game_of_thrones</UniqueID>
+            <CopyrightYear>2010</CopyrightYear>
+            <CountryOfOrigin>US</CountryOfOrigin>
+        </Series>
+        <Season>
+            <SeriesID>game_of_thrones</SeriesID>
+            <TitleInfo>
+                <Rating scheme="abc">18+</Rating>
+                <Title locale="IN-US">season_2</Title>
+                <Studio>HBO</Studio>
+                <Synopses>
+                    <Short>ned k baad ki kahani</Short>
+                    <Long>ned k baad ki kahani</Long>
+                </Synopses>
+            </TitleInfo>
+            <PartnerName>HBO</PartnerName>
+            <UniqueID>season_2</UniqueID>
+            <CopyrightYear>2011</CopyrightYear>
+            <CountryOfOrigin>US</CountryOfOrigin>
+        </Season>
+        <Episode>
+            <SeriesID>game_of_thrones</SeriesID>
+            <SeasonID>season_2</SeasonID>
+            <RuntimeInMinutes>50</RuntimeInMinutes>
+            <AdultProduct>true</AdultProduct>
+            <TitleInfo>
+                <Sequence>2</Sequence>
+                <OriginalAirDate>2017-06-29 05:30:00 IST</OriginalAirDate>
+                <Rating scheme="abc">18+</Rating>
+                <Genre>horror</Genre>
+                <ItemType>downloadable-television-shows</ItemType>
+                <EpisodeProductionNumber>12</EpisodeProductionNumber>
+                <Title locale="IN-US">The night Lands</Title>
+                <Studio>HBO</Studio>
+                <Synopses>
+                    <Short>sabka badla lega re tera pappu</Short>
+                    <Long>sabka badla lega re tera pappu</Long>
+                </Synopses>
+            </TitleInfo>
+            <PartnerName>HBO</PartnerName>
+            <UniqueID>episode_2</UniqueID>
+            <CopyrightYear>2011</CopyrightYear>
+            <CountryOfOrigin>US</CountryOfOrigin>
+        </Episode>
+    </TV>
+</Metadata>
